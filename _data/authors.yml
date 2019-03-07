@@ -1,8 +1,8 @@
 ghost:
   username: ghost
   name: Ghost
-  url_full: http://jekyller.github.io/jasper2/
-  url: jekyller.github.io/jasper2
+  url_full: http://bula513.github.io
+  url: bula513.github.io
   bio: The professional publishing platform
   picture: assets/images/ghost.png
   facebook: ghost
@@ -12,7 +12,7 @@ hannah:
   username: hannah
   name: Hannah Wolfe
   location: London, UK
-  url_full: http://hannah.wf/
+  url_full: http://bulala.me/
   url: hannah.wf
   bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
   picture: assets/images/hannah.jpg
@@ -23,7 +23,7 @@ john:
   username: john
   name: John O'Nolan
   location: On a plane
-  url_full: http://john.onolan.org/
+  url_full: http://bulala.me/
   url: john.onolan.org
   bio: Founder at Ghost.org. Writes about open source, startup life, non-profits, and publishing platforms. Travels the world with a bag of kites.
   picture: assets/images/john.jpg
